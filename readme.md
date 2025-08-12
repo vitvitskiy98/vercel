@@ -14,7 +14,7 @@ Welcome to **VercelTest** — a simple project designed to test Vercel deploymen
 ## 🌐 Live Demo
 
 Check out the deployed project on Vercel:  
-[https://vercel-test-inky-delta.vercel.app/](https://vercel-test-inky-delta.vercel.app/)
+[vercel-j7e8aym1y-vlads-projects-6ecf467f.vercel.app](vercel-j7e8aym1y-vlads-projects-6ecf467f.vercel.app)
 
 ## 🛠️ Getting Started
 
