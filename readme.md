@@ -1,20 +1,20 @@
 # VercelTest
 
-Welcome to **VercelTest** — a simple project designed to test Vercel deployment, modern CSS (SCSS), and fun animations!
+**VercelTest** is a simple project to showcase Vercel deployment, modern SCSS styling, and fun CSS animations.
 
 ## 🚀 Features
 
-- **CSS Reset** for consistent styling across browsers (`reset-css`)
-- **SCSS** for modular and maintainable styles (`sass`)
-- **BEM Naming Convention** for clear and scalable CSS
+- **CSS Reset** for consistent cross-browser styles (`reset-css`)
+- **SCSS** for modular, maintainable styles (`sass`)
+- **BEM Naming Convention** for scalable CSS
 - **Animated Heading** with custom shadow effects
-- **Easy Setup** with npm scripts
+- **Easy Setup** using npm scripts
 - **Vite** for fast development and builds
 
 ## 🌐 Live Demo
 
-Check out the deployed project on Vercel:  
-[vercel-j7e8aym1y-vlads-projects-6ecf467f.vercel.app](vercel-j7e8aym1y-vlads-projects-6ecf467f.vercel.app)
+See it live:  
+[vercel-green-five-70.vercel.app](https://vercel-green-five-70.vercel.app)
 
 ## 🛠️ Getting Started
 
@@ -33,7 +33,7 @@ Check out the deployed project on Vercel:
    ```sh
    npm run dev
    ```
-   Open the provided local URL in your browser.
+   Then open the local URL in your browser.
 
 4. **Build for production**
    ```sh
