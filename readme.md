@@ -20,7 +20,7 @@ See it live:
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/vitvitskiy98/vercelTest.git
+   git clone https://github.com/vitvitskiy98/vercel.git
    cd vercelTest
    ```
 
