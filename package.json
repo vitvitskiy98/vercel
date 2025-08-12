@@ -1,0 +1,18 @@
+{
+  "name": "verceltest",
+  "version": "1.0.0",
+  "description": "this is a test project designed to test vercel",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass style.scss style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vlad Vitvitskiy",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.90.0"
+  },
+  "dependencies": {
+    "reset-css": "^5.0.2"
+  }
+}
