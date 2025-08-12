@@ -1,21 +1,21 @@
 # VercelTest
 
-Welcome to **VercelTest** — a simple project designed to experiment with Vercel deployment, modern CSS (SCSS), and fun animations!
+Welcome to **VercelTest** — a simple project designed to test Vercel deployment, modern CSS (SCSS), and fun animations!
 
 ## 🚀 Features
 
-- **CSS Reset** for consistent styling across browsers
-- **SCSS** for modular and maintainable styles
+- **CSS Reset** for consistent styling across browsers (`reset-css`)
+- **SCSS** for modular and maintainable styles (`sass`)
 - **BEM Naming Convention** for clear and scalable CSS
 - **Animated Heading** with custom shadow effects
 - **Easy Setup** with npm scripts
-
+- **Vite** for fast development and builds
 
 ## 🛠️ Getting Started
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-github-username/vercelTest.git
+   git clone https://github.com/vitvitskiy98/vercelTest.git
    cd vercelTest
    ```
 
@@ -24,31 +24,42 @@ Welcome to **VercelTest** — a simple project designed to experiment with Verce
    npm install
    ```
 
-3. **Compile SCSS**
+3. **Start the development server**
    ```sh
-   npm run sass
+   npm run dev
+   ```
+   Open the provided local URL in your browser.
+
+4. **Build for production**
+   ```sh
+   npm run build
    ```
 
-4. **Open `index.html` in your browser**
-   - You can use VS Code's Live Server or open manually.
+5. **Preview the production build**
+   ```sh
+   npm run preview
+   ```
 
 ## 📦 Project Structure
 
 ```
 vercelTest/
 ├── index.html
+├── index.js
 ├── style.scss
 ├── style.css
 ├── package.json
 ├── .gitignore
+├── vite.config.js
 └── readme.md
 ```
 
 ## ✨ Credits
 
-- [reset-css](https://www.npmjs.com/package/reset-css) for CSS reset
-- [Sass](https://sass-lang.com/) for powerful styling
+- [reset-css](https://www.npmjs.com/package/reset-css)
+- [Sass](https://sass-lang.com/)
+- [Vite](https://vitejs.dev/)
 
 ---
 
-**Made with ❤️
+**Made with ❤️ by Vlad Vitvitskiy**
